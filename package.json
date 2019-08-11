@@ -1,10 +1,10 @@
 {
-  "name": "node-template",
+  "name": "koa-req-id",
   "version": "1.0.0",
-  "description": "Starter template for Node projects, with common configurations",
+  "description": "Set request ID header for Koa2 app",
   "main": "index.js",
-  "repository": "https://github.com/rkrayovskyy/node-template.git",
-  "author": "Roman Krayovskyy",
+  "repository": "https://github.com/rkrayovskyy/koa-req-id",
+  "author": "Roman Krayovskyy (rkrayovskyy@gmail.com)",
   "license": "MIT",
   "private": false,
   "scripts": {
