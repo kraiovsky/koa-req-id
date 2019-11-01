@@ -7,6 +7,7 @@ const uuid = require('uuid/v4')
 /**
  * Generated unique ID for a session and sets it in a response header.
  *
+ * @param {string} [requestIdHeader=x-request-id] - Name of the request id header.
  * @param {Object} ctx - Koa2 context object.
  * @param {Function} next - Koa2 function to proceed to the next handler.
  */
