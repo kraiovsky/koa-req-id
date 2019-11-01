@@ -10,6 +10,7 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "start": "node index",
     "test": "jest"
