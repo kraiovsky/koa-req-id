@@ -1,6 +1,6 @@
 {
   "name": "koa-req-id",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Set request ID header for Koa2 app",
   "main": "index.js",
   "repository": "https://github.com/rkrayovskyy/koa-req-id",
